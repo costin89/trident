@@ -1,5 +1,6 @@
 # **TRIDENT = Tangible Reality Integrations for Dynamic Educational Networks and Technologies**
-<h3><i>TridentOrbitCameraController_Object_Tree</i></h3>
+
+**TridentOrbitCameraController_Object_Tree**
 
 <p>midpoint(EmptyObject)</p>
 <p>|_Elevator(EmptyObject)</p>
