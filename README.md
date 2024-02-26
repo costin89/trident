@@ -3,8 +3,8 @@
 **TridentOrbitCameraController_Object_Tree**
 
 *midpoint(EmptyObject)
-     |_Elevator(EmptyObject)
-       |_Scene_Camera*
+>|_Elevator(EmptyObject)
+>>|_Scene_Camera*
        
 **Anwenden des Ramp SkyBox Shaders:**
 - *Erstelle eine neue Material-Datei in Unity (Rechtsklick im Projekt-Explorer, "Create" > "Material").*
